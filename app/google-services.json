@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1012313074123",
+    "firebase_url": "https://sbmptnapps.firebaseio.com",
+    "project_id": "sbmptnapps",
+    "storage_bucket": "sbmptnapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012313074123:android:1cc7bb77b427a632",
+        "android_client_info": {
+          "package_name": "com.example.gideonmanurung.sbmptnapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012313074123-ltke7r3jvtvk64moffuej4kbid0d9nag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPakaLKxv8Pck55HGyd3mDA-JAIBjCwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

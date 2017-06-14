@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/test"
+    tools:context="com.example.gideonmanurung.sbmptnapps.MainActivity">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_judul"
+        android:gravity="center"
+        android:text="Pre-Test SBMPTN"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:id="@+id/btnTest"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Mulai Test"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        />
+    <Button
+        android:id="@+id/btnPengumuman"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Pengumuman"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        />
+    <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        />
+</LinearLayout>

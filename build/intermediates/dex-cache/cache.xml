@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\6c1dcb3a3206b6d19b6608420d14424abd9f9903\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_6f58f2c55790a15e78c48d2c562f1356e8befd42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\gson-2.7_1f881d4e182f813a14195084cd5d1be8d56bf94b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\544873fe587fcba539fd367cf328bf70b70f5ccb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_adfbdc298d09cd5bcdaa1557b99af436283a3fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\f17ee5c0216128314717e43818c442dfa75d87f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_1de74cef15eb74b44f18be8b788291e1eb7600d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\8b657df95f1658643dbbc72cf3b0950b28a43ac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_e34d80d7c07b72e0b40d6d242e3f30ebdfe66f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\c716df13ee410ebb261eb9739a4383d89ad50ef5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_b54b72e98069b66bd912dc2f00b43ec65afc0eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\34800afaf1331b36cf1f9489b65562a972dfa888\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_1bd6c8caa45cd0e39b26437803622b5e55b5c89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\2fe3ff96660a93c12ad1d5c2eba6892f57abc6d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_7be866f645b1adc0b15120ef9e813901fdbf0551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\7ef405c4b6e3ba65387a58dd16b3d5d994aa8bcf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_12128ab704619e301b2509c95eb6dd7cc2f79d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\65080bd5f9d7763b055881d542d0324e073230ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_2e6755cc606d05af610a5f020014d3a7be68b6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\dd19ae215f589517b2442e5b6f464c413fe42f69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_73614572b887f49dd2934bb93388854cd82fae20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\okio-1.11.0_e72407f7f9b85ef57bc87c0427754d103c9ce0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\5900c7f59124027a40925bff120cef4f32c22377\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_6ed2e56f6161dc4cbd04106bb335c935e9e91463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\725b183109cc1bcdca3d80868398fab0cce0b6ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_fe9598983a4d3f41e600c3824ac8d161f81aba97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\1b622bd01a311263c93a8d3aa40a492e33c3b8ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_1da604e0a93d5039fd24dca399655e84bfbc5759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\1f6359cb6f1529c9bad8457ae93ea05520acd568\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_a8f6b2f0c36e67553212bbc9224748d4497d8e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\b4ef8080056e16543282c7c518ac6f5b2afd2845\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_10b37e00a2edad41575d8e78f185c848910cc3d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\3753be06d675328a2a61b23908243573b23ebcdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_74b811c609dbac2133684ac62757faf15c66cd16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6540c868f8d9e3c2e16676d67be5f78c9bd580f">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_af2354fbe61284d76ff4fc2c8c751059528db577\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\7ab65872f8935b99a23b68e9175be65db7c62844\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_6e9f6064bac9bdaee8610b66db088dfe3d95c2c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\081740a250918cc16ceb9d646f638f3be569d5b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_9ead55f32c56a10acbeb9676e37b2b51adf0bb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\2754c94f3ecccec282f7cc181813515b6e795d11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_af14007b4ada0cbfdeaa68cfdacb7a167a11dbae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\d34a44e9ae3f351761de62d82993bd52f44ccc62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c40c40059e805809fd4013e6010eb45a35ded9a9">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_b4918aaa3f434a8145b65764e895b019359256dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\b9a3ca065a4d09efa19aa300e9c2acf30a8d3d4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_2ef2d2908c34b0474c7b86621425a1bc0283c7a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.0.0\32a01bbb8cb421b6d53d7a102412142b0391c8c7\realm-annotations-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32a01bbb8cb421b6d53d7a102412142b0391c8c7">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\realm-annotations-3.0.0_3cbf7fabb45eac895b22369e36719813ff1ac051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\97465a9e1256494072b51a74a6e9cde0031f7234\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_61b19dec7c69e7a8526b289b191317eff6e9b8a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\4b0ab6c886386bb9c851b394f9fadb51f0d182b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_a48bf2690b713feff79ab84164b7b1faa08aa96b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_583310de3eaf635bee0d7084ce15e209c8d5c57d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_c8b40fbd1c79e47e3da7b24dc91142e8f7f57fee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\a15223fc3048acb01d41ce15553b0d44da54ec53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_b47c86bedbf53fbba74eb286b7de922862f73c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\9333a8967fa8b5af93f67f6dcc6cc0e1190c91af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_11f305f34ca3fb6e8e76be84c10fb8717e197ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\277ec300875c2e807ae7b9e747d3558df4c69289\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_a713393c0a797c3964763d1b52b884e7e76c703e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\51ced31aaa2af104b4c89f5a58fbef5ecbaca086\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_f0c499f54e688fb9af44a7d4405eb1ad220255dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\a227e059b58896de9df1afd54bf2c8fe7e001a36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_9ad70771e54fc3e1bea77d6bbc44db0163224b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6894754d8f1b16fb0f2432f459306485d049f285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\f953302fd01695eb6b156c6cef27cbeaa9b9e315\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_14106370e1ec9f981ebddc2e3902c3f5a97e382c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\d7fde976a4aed140af46c475811d00ae0668ec1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_67428818f59716e5743a45b447660a1acf8810a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\57c79d4cf41efe22ae3bc5a030e77ac2c63d8898\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_77335935a74a77652c74273c71c9c3c2b22b9f2d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_75b9077d1edb8ff7330f2b48da89a1c0332f9a05\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_29367f458819a1697e8a3517e22b4bcbc35de77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\515c17d8d1f68676ae66a24cf5de761f363c6b79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aed23c739ad564efb5193b88bc785868f7de878b">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_27bd9880431641edac2a7c0aef1a6d4df564d362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\7117298c897b10480228b829654935d0bddb9b2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_f1934eeb358bae35b40dd1fb66cfa720333f16ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\884c41fc62522fc8c943b986d2521c57883b346c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_b085b5a666ffc2f94d956c414801fc2a9762a6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_0b546b4225ff13d0580c81cb96cc10ea28cc857f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gideon Manurung\.android\build-cache\7a1041d365df4b8a07fc9bd29b47cc1f89901829\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Percobaan\Java\Android\PAM D4\Proyek\SBMPTNApps\app\build\intermediates\pre-dexed\debug\classes_f50f40a588ae01d3036578813067e556bc0ea894.jar" />
+    </item>
+
+</items>
